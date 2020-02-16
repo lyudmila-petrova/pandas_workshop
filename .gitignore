@@ -4,3 +4,4 @@ __pycache__
 venv
 data/*
 !data/.gitkeep
+!data/telecom_churn.csv
